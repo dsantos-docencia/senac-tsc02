@@ -35,5 +35,4 @@ Desenvolvi, com uma equipe de [número] alunos, um projeto sobre [tema]. Fiquei 
 
 ### Idiomas
 
-- Português: nativo
-- [Outro idioma]: [nível]
+- Inglês: nativo
